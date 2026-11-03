@@ -4,7 +4,7 @@ A modern and responsive Weather Application built using **React.js** and **Vite*
 
 ## 🚀 Live Demo
 
-🔗 Coming Soon...
+https://weather-app-miniproject-one.vercel.app/
 
 ---
 

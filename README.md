@@ -1,9 +1,10 @@
 # 🌦️ Weather App
 
-A modern and responsive Weather Application built using **React.js** and **Vite** that provides real-time weather updates for any city worldwide. The application fetches live weather data through an API and displays essential weather information in an intuitive and user-friendly interface.
+A modern and responsive Weather Application built using **React.js** and **Vite** that provides real-time weather updates for any city worldwide. The application fetches live weather data through a weather API and displays essential weather information in an intuitive and user-friendly interface.
 
 ## 🚀 Live Demo
 
+🔗 Coming Soon...
 
 ---
 
@@ -29,7 +30,15 @@ A modern and responsive Weather Application built using **React.js** and **Vite*
 - CSS3
 
 ### API
-- OpenWeather API *(or the API you used)*
+- OpenWeather API
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./src/assets/weather-app-preview.png" alt="Weather App Preview" width="900">
+</p>
 
 ---
 
@@ -42,6 +51,7 @@ weather-app-miniproject/
 │
 ├── src/
 │   ├── assets/
+│   │   └── weather-app-preview.png
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
@@ -88,20 +98,10 @@ VITE_WEATHER_API_KEY=YOUR_API_KEY
 npm run dev
 ```
 
-Application will start on:
+The application will start on:
 
 ```bash
 http://localhost:5173
-```
-
----
-
-## 📸 Preview
-
-Add your application screenshot here.
-
-```md
-![Weather App Screenshot](./src/assets/weather-app-preview.png)
 ```
 
 ---
@@ -135,12 +135,12 @@ This project helped in understanding:
 
 ## 🔮 Future Improvements
 
-- 5-Day Forecast Feature
+- 5-Day Weather Forecast
 - Current Location Weather Detection
 - Dark/Light Mode Toggle
-- Weather History Search
+- Search History
 - Air Quality Index (AQI)
-- Hourly Forecast
+- Hourly Weather Forecast
 
 ---
 
@@ -182,9 +182,3 @@ git push origin feature-name
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
